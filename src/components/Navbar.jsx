@@ -62,7 +62,7 @@ function Navbar({ darkMode, toggleDarkMode }) {
                     >
                         <span className={`text-xl font-bold bg-gradient-to-r
                             from-yellow-600 to-yellow-300 bg-clip-text text-transparent`}>
-                            Protifolio
+                            Portfolio
                         </span>
                     </motion.a>
 
@@ -186,7 +186,7 @@ function Navbar({ darkMode, toggleDarkMode }) {
                                     </motion.div>
                                 </a>
                             ))}
-                           
+
                         </div>
                     </motion.div>
                 )}
