@@ -16,7 +16,8 @@ function Works({ darkMode }) {
             video: 'video-2.mp4',
             tags: ['Blender']
         },
-        
+    ]
+
     return (
         <section
             id='works'
